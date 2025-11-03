@@ -167,7 +167,7 @@ async function startBot() {
       }
     }
     if (connection === "open") {
-      log.success("Su conexión fue exitosa con Starlights 🌟");
+      log.success("Su conexión fue exitosa con Draculaura 🦇");
     }
   });
 
