@@ -70,7 +70,7 @@ Librería: 𝖡𝖺𝗂𝗅𝖾𝗒𝗌 𝗠𝗗
             newsletterName: "🌟 Starlights Channel",
           },
           externalAdReply: {
-            title: "⭑ 𝗦𝘁𝗮𝗿𝗹𝗶𝗴𝗵𝘁𝘀 - 𝗕𝗼𝘁 🌟",
+            title: `${botname}`,
             body: "Creado con amor por 𝕮𝖍𝖎𝖓𝖆 💫",
             thumbnailUrl: "https://files.catbox.moe/e1lirs.jpg", // imagen de vista previa
             sourceUrl: "https://starlights.vercel.app", // link de tu canal o página
