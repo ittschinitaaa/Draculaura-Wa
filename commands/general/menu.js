@@ -53,7 +53,7 @@ Librería: 𝖡𝖺𝗂𝗅𝖾𝗒𝗌 𝗠𝗗
 `.trim();
 
     // 🌌 URL de tu video o gif (MP4 recomendado)
-    const videoUrl = "https://files.catbox.moe/j3q1nh.mp4"; // <-- Cambialo por tu link
+    const videoUrl = "https://files.catbox.moe/wacw2i.mp4"; // <-- Cambialo por tu link
 
     await client.sendMessage(
       m.chat,
