@@ -1,8 +1,7 @@
-## ⏤͟͟͞͞☆  𝗦𝗧𝗔𝗥𝗟𝗜𝗚𝗛𝗧𝗦  ⏤͟͟͞͞★
 > base para desarrolladores que desean iniciar su propio bot de WhatsApp desde cero.
 
 <p align="center">
-  <img src="https://files.catbox.moe/sklz18.png" width="220px"/>
+  <img src="https://files.catbox.moe/y2u8ox.jpg" width="220px"/>
 </p>
   
 
