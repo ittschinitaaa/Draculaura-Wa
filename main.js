@@ -138,9 +138,3 @@ fs.watchFile(mainFile, () => {
   delete require.cache[mainFile];
   require(mainFile);
 });
-
-
-// Mini Lurus © 2025 - Creado por Zam  | GataNina-Li | DevAlexJs | Elrebelde21
-
-
-
