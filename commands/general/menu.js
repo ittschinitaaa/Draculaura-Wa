@@ -130,9 +130,9 @@ ${saludo}, 𝖲𝗈𝗒 ${namebot}
           forwardingScore: 1,
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
-            newsletterJid: "120363345778623279@newsletter", 
+            newsletterJid: my.ch,
             serverMessageId: "1",
-            newsletterName: "𝐒𝐩𝐚𝐜𝐞 𝐖𝐨𝐫𝐥𝐝 𝐂𝐥𝐮𝐛'𝐬 - 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 ✰",
+            newsletterName: my.name,
           },
           externalAdReply: {
             title: `${namebot}`,
