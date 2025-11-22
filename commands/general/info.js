@@ -42,7 +42,7 @@ module.exports = {
     await client.sendMessage(
       m.chat,
       {
-        image: thumbnailUrl, //{ url: "https://files.catbox.moe/sklz18.png" },
+        image: { url: "https://files.catbox.moe/sklz18.png" },
         caption: info,
       },
       { quoted: m },
